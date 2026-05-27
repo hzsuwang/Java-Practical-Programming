@@ -67,7 +67,7 @@
 
 ## 联系作者
 - 头条号：[Java实战编程馆](https://www.toutiao.com/c/user/your_id/)
-- 邮箱：java.practical@example.com
+- 邮箱：hzsuwang@163.com
 
 ## License
 MIT License
