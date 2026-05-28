@@ -13,8 +13,8 @@
 | 篇序 | 标题 | 状态 | 源码 |
 |------|------|------|------|
 | 01 | [从零搭建多线程测试环境](docs/concurrent/01-环境搭建.md) | ✅ | [src/concurrent/lesson01](src/concurrent/lesson01) |
-| 02 | synchronized锁升级全过程代码演示 | 📝 | [src/concurrent/lesson02](src/concurrent/lesson02) |
-| 03 | volatile可见性证明与指令重排问题 | 📝 | [src/concurrent/lesson03](src/concurrent/lesson03) |
+| 02 | [synchronized锁升级全过程代码演示](docs/concurrent/02-synchronized锁升级.md) | ✅ | [src/concurrent/lesson02](src/concurrent/lesson02) |
+| 03 | [线程池的7个致命参数，90%的线上故障源于此](docs/concurrent/03-线程池致命参数.md) | ✅ | [src/concurrent/lesson03](src/concurrent/lesson03) |
 | 04 | AtomicInteger底层CAS原理拆解 | 📝 | [src/concurrent/lesson04](src/concurrent/lesson04) |
 | 05 | ThreadLocal内存泄漏场景与解决方案 | 📝 | [src/concurrent/lesson05](src/concurrent/lesson05) |
 | 06 | CountDownLatch在项目中的3个真实应用 | 📝 | [src/concurrent/lesson06](src/concurrent/lesson06) |
